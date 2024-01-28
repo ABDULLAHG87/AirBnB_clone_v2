@@ -1,4 +1,4 @@
-#!/usr/bin/python3.......
+#!/usr/bin/python3
 """ A python script that starts a web application
 With listening on 0.0.0.0, port 5000
 """
